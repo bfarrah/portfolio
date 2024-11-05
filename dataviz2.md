@@ -1,6 +1,6 @@
 [home](/README.md)
 
-[2015](/export-2024-11-05T00_55_58.417Z.png)
+![2015](/images/2008debt.png)
 
 <div class='tableauPlaceholder' id='viz1730770344036' style='position: relative'><noscript><a href='#'>
   <img alt='General Government Debt ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;bf&#47;bfarrah_dataviz2&#47;GeneralGovernmentDebt&#47;1_rss.png' style='border: none' />
