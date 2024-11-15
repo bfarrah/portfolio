@@ -8,7 +8,7 @@ Source: [https://www.epi.org/publication/ceo-compensation-surged-14-in-2019-to-2
 I chose this visualization because it seemed like it had a strong foundation and potential to show something important, but relied too much on jargon and became unclear. Specifically, the big block of text underneath the chart caught my attention. I became even more confused after reading it, and I only understood the difference between "realized" and "granted" compensation after some Googling. It also seemed a bit bland or boring to look at. This graph definitely seemed like it had a story to tell (CEO's having much more compensation than average workers) but wasn't easy enough to read so as to share that story beyond business-oriented individuals.
 
 # Critiquing the Visualization
-I used 
+I used Stephen Few's Data Visualization Effectiveness Profile to critique the visualization. This method helped me think about the audience of the visualization. I realized that while it likely does effectively reach the intended audience, it doesn't do enough to reach people beyond that. It also helped me organize my thoughts of when I first saw the visualization, which helps shed light on what other people are likely going to pick up on when looking at it initially.
 
 # Sketching out a Solution
 ![sketch1](/images/ceo_sketch.jpg)
@@ -66,7 +66,7 @@ Essentially, it seemed like I didn't do enough to make the graph more readable f
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-This is my final redesign.
+This is my final redesign. I changed the color of the granted compensation line so that it could stick out more and be harder to confuse with the other line. It's also now colorblind-friendly. I couldn't figure out how to add a caption to a Tableau chart, however, so the note would read: "'Granted' refers to a compensation package including the value of stocks at the time they were offered. 'Realized' refers to a compensation package including the value of the stock after they were granted." I also removed the individual data labels, and I changed the title of the y-axis to be just "compensation ratio." This makes it simpler since "CEO-Worker" is already in the title and is redundant. I also changed the title of the graph to be "Ratio of CEO Compensation to Worker Compensation" to call more attention to the fact that it is showing a ratio, since the interviewees seemed to have trouble with that.
 
 ### Note
 The data for these visualizations can be found in the file [ceo.csv](/ceo.csv)
