@@ -1,3 +1,5 @@
+[home](/README.md)
+
 # Outline
 In this project, I want to offer some insight into trends in tobacco use, especially among teenagers and young people. Since vapes have become increasingly popular and targeted toward young people, general tobacco use has increased among this group. I want to show the correlation between vape use and between other kinds of tobacco use. I also want to show how trends in tobacco use have changed in recent years, and especially how these trends have changed since the rise in popularity of vapes. I want to send the message that tobacco use among teens was on the way out not too long ago, and that can happen again. The best way to do that is by reaching out to teens and having honest conversations with them and supporting them in quitting smoking.
 
@@ -13,9 +15,9 @@ In this project, I want to offer some insight into trends in tobacco use, especi
   - Encourage audience to have those conversations and show their support to any teens who use vapes or smoke
 
 # Initial Sketches
-![tobaccoGraph1](images/tobaccoGraph1.png)
+![tobaccoGraph1](images/tobaccoGraph5.jpg)
 ![tobaccoGraph2](images/tobaccoGraph2.png)
-![tobaccoGraph3](images/tobaccoGraph3.png)
+![tobaccoGraph3](images/tobaccoGraph6.jpg)
 ![tobaccoGraph4](images/tobaccoGraph4.png)
 
 # The Data
