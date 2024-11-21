@@ -23,4 +23,5 @@ I'm hoping to learn about the most effective ways to convey information through 
 ### Assignment 3 & 4: Critique by Design with Tableau (MakeoverMonday)
 [dataviz3&4](/dataviz3&4.md)
 
-### Final Project
+### Final Project Part 1
+[FinalProject](/final_project_BenjaminFarrah.md)
