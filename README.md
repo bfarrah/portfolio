@@ -24,4 +24,7 @@ I'm hoping to learn about the most effective ways to convey information through 
 [dataviz3&4](/dataviz3&4.md)
 
 ### Final Project Part 1
-[FinalProject](/final_project_BenjaminFarrah.md)
+[Part 1](/final_project_BenjaminFarrah.md)
+
+### Final Project Part 2
+[Part 2](/final_project_part2_BenjaminFarrah.md)
