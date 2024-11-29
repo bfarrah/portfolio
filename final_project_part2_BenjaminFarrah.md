@@ -8,9 +8,8 @@
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+My target audience will be parents/guardians of teenagers, but I also want to reach young people themselves through this story. I want to reach both parents and their children so that they can have meaningful and supportive conversations about smoking. For this research, I will only be interviewing parents/guardians of teenagers (in the age range of 12-18) as I don't personally know any teenagers.
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
@@ -19,7 +18,7 @@ Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
+|example 1|blah blah blah                  |
 |      |                  |
 |      |                  |
 
