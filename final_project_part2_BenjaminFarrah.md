@@ -65,18 +65,10 @@ Text here!
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
-
-Text here!
+|Parents/guardians have a wide variety of baseline knowledge about vaping.|I should change mhy introduction to cover basic information about vaping, including how common it is. This could be articulated by stating the average number of students per grade that use vapes, perhaps.|
+|Some of my visualizations, especially the first one, seem a bit boring or don't convey the point well enough.|I should find ways to include graphs that seem more visualy exciting, which will make the users more engaged and possibly more likely to learn.|
+|There's a wide variety of comfort parents feel in discussing this with their children.|I could include more tips about how to actually have these conversations. I could include points detailing what would make the conversation constructive and what could make it more damaging. In general, I should provide a guide to making this an easy topic to talk about.|
+|Parents only know the surface-level risks associated with vaping, like addiction or being more likely to use tobacco products.|I should look more into other risks of vaping. I could talk more about direct risks like cancer, or maybe more risks to mental health. It seems that parents are only focusing on the physical health side, so I could inform them more of how vapes can impact their children psychologically.|
