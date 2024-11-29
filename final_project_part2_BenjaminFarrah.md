@@ -18,9 +18,11 @@ Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|example 1|blah blah blah                  |
-|      |                  |
-|      |                  |
+|Identify awareness of vape use among guardians so I know how much the average guardian knows before seeing my presentation.|"How would you describe your awareness of vaping and its popularity among teenagers?"|
+|Guage how much guardians know about health risks so I can tune the depth to which I address that in my presentation.|"What do you know about health risks associated with vaping?"|
+|Figure out what guardians have actually said to their kids. This will help me determine the level of care guardians have generally taken, and help me know what advice or tips could best help parents for having these conversations.|"What, if anything, have you discussed with your child about vaping and tobacco use?"|
+|Determine which of my visualizations stood out, and whether it was for a good or bad reason.|"Did any visualizations in this storyboard stand out to you? Which ones, and why?"|
+
 
 
 Text here!
@@ -51,10 +53,5 @@ Text here!
 | ...add more rows as necessary            |                                                                                 |
 
 > ...include any final thoughts you have here. 
-
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
 
 Text here!
