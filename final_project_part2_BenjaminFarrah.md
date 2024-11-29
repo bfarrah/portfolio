@@ -25,7 +25,6 @@ My target audience will be parents/guardians of teenagers, but I also want to re
 Text here!
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
 ### Interview 1 Transcript:
 - "How would you describe your awareness of vaping and its popularity among teenagers?"
@@ -57,7 +56,7 @@ Text here!
 - "Did any visualizations in this storyboard stand out to you? Which ones, and why?"
   - "I didn't really like the first one. It was kind of boring and hard to read. I wish it were a bit more clear or at least a bit more interesting." 
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1 (Parent, 50s) | Interview 2 (Parent, 30s) | Interview 3 (Parent, 50s) |
 |-------------------------|--------------------------------|-------------|-------------|
 |"How would you describe your awareness of vaping and its popularity among teenagers?"|Parents may have only heard about it without actually knowing much at all about it.|Parents may just assume that it's extremely common.|Parents may have had direct or indirect experience with it through their children or their friends.|
 |"What do you know about health risks associated with vaping?"|Some parents are aware of the dangers, but don't know much beyond that it's addictive and it's similar to a cigarette.|Some parents may think vaping is just a way for people to quit smoking cigarettes, since that's how it originated.|Parents are generally aware that vapes are addictive, but they aren't sure about other risks beyond that.|
