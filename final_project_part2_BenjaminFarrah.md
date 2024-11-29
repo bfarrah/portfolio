@@ -21,9 +21,6 @@ My target audience will be parents/guardians of teenagers, but I also want to re
 |Determine which of my visualizations stood out, and whether it was for a good or bad reason.|"Did any visualizations in this storyboard stand out to you? Which ones, and why?"|
 
 
-
-Text here!
-
 ## Interview findings
 
 ### Interview 1 Transcript:
