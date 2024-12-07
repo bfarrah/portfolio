@@ -28,3 +28,6 @@ I'm hoping to learn about the most effective ways to convey information through 
 
 ### Final Project Part 2
 [Part 2](/final_project_part2_BenjaminFarrah.md)
+
+### Final Project Part 3
+[Part 3](/final_project_part3_BenjaminFarrah.md)
