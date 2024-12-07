@@ -1,4 +1,4 @@
-| [Part 1](/final_project_BenjaminFarrah.md) | [Part 2](/final_project_part2_BenjaminFarrah.md) |
+| [home](/README.md) | [Part 1](/final_project_BenjaminFarrah.md) | [Part 2](/final_project_part2_BenjaminFarrah.md) |
 
 # The final data story
 [Shorthand Story](https://carnegiemellon.shorthandstories.com/big-tobacco-and-teenage-vaping/index.html)
