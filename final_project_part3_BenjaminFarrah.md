@@ -1,14 +1,15 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+||
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
-
-Text here!
+[Shorthand Story](https://carnegiemellon.shorthandstories.com/big-tobacco-and-teenage-vaping/index.html)
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
 
-Text here!
+After completing Part II, I decided to only keep the visualizations I had already finished making. I got rid of the handdrawn drafts because I couldn't get access to datasets to help me make those graphs. The points I was making were still supported by individual data points and other visualizations I found online, but the raw data was often not publically accessible.
+
+From the interviews, I found out that some parents may not know a lot about what vapes are and about potential health consequences it may have. I added an introduction which briefly goes over what a vape is and a little bit of history about them, specifically about how they were initially intended to help people quit smoking. I also made general changes to the layout and design of it, which included adding more pictures and having standalone title slides which make the document look more professional.
+
+I wanted to refocus one aspect of my story to show how certain corporations profit from addiction and delibrately advertise to minors, and to make sure that I'm not putting any blame on the kids themselves. I tried to make this a bigger part of my story because that's more aligned with my own core values. I'm not against smoking or vaping at all, I just wanted my story to show parents the malicious power of e-cigarette companies and give them guidance on how to talk to their kids about this. That helped me redesign my call to action to have more emphasis on having an honest conversation about it with their kids rather than trying to blame or scare them.
 
 ## The audience
 > Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
