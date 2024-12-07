@@ -1,5 +1,4 @@
-### Final Project Part 1 Link
-[Part 1](/final_project_BenjaminFarrah.md)
+| [Part 1](/final_project_BenjaminFarrah.md) | [Part 3](/final_project_part3_BenjaminFarrah.md) |
 
 # Wireframes / storyboards
 
