@@ -12,9 +12,8 @@ From the interviews, I found out that some parents may not know a lot about what
 I wanted to refocus one aspect of my story to show how certain corporations profit from addiction and delibrately advertise to minors, and to make sure that I'm not putting any blame on the kids themselves. I tried to make this a bigger part of my story because that's more aligned with my own core values. I'm not against smoking or vaping at all, I just wanted my story to show parents the malicious power of e-cigarette companies and give them guidance on how to talk to their kids about this. That helped me redesign my call to action to have more emphasis on having an honest conversation about it with their kids rather than trying to blame or scare them.
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
-Text here!
+My audience was specicially parents/guardians of teenagers. From my interviews, it seemed like parents needed a lot of help on this subject. They tended to not have a lot of information about potential dangers of vaping or about how different vapes are from cigarettes. They also seemed a little misguided in having conversations about it with their kids, even sometimes avoiding the subject. They weren't aware of the predatory marketing taking place in the e-cigarette industry. I wanted to highlight how vaping isn't the fault of the teenagers who try it, and to encourage parents to have thoughtful and supportive conversations with their children about it.
 
 ## Final design decisions
 > You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
