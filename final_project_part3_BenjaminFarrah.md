@@ -15,15 +15,31 @@ I wanted to refocus one aspect of my story to show how certain corporations prof
 
 My audience was specicially parents/guardians of teenagers. From my interviews, it seemed like parents needed a lot of help on this subject. They tended to not have a lot of information about potential dangers of vaping or about how different vapes are from cigarettes. They also seemed a little misguided in having conversations about it with their kids, even sometimes avoiding the subject. They weren't aware of the predatory marketing taking place in the e-cigarette industry. I wanted to highlight how vaping isn't the fault of the teenagers who try it, and to encourage parents to have thoughtful and supportive conversations with their children about it.
 
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
-
-Text here!
 
 ## References
-> You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
+“Big Tobacco Is Back with a New Way to Addict Kids.” Campaign for Tobacco-Free Kids. Accessed December 2, 2024. https://www.tobaccofreekids.org/juul#:~:text=Their%20mint%2C%20menthol%2C%20fruit%2C,youth%20e%2Dcigarette%20epidemic.%E2%80%9D.
 
-Text here!
+Centers for Disease Control and Prevention. “Tobacco Use 1995-2010.” Kaggle, November 17, 2016. https://www.kaggle.com/datasets/cdc/tobacco-use.
+
+“FTC Issues Third Report on E-Cigarette Advertising and Sales in the U.S.” Federal Trade Commission, August 20, 2024. https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-issues-third-report-e-cigarette-advertising-sales-us.
+
+“Notes from the Field: Use of Electronic Cigarettes and Any Tobacco Product among Middle and High School Students - United States, 2011–2018.” Centers for Disease Control and Prevention, November 15, 2018. https://www.cdc.gov/mmwr/volumes/67/wr/mm6745a5.htm?s_cid=mm6745a5_w.
+
+Products, Center for Tobacco. “Results from the Annual National Youth Tobacco Survey (NYTS).” U.S. Food and Drug Administration. Accessed December 5, 2024. https://www.fda.gov/tobacco-products/youth-and-tobacco/results-annual-national-youth-tobacco-survey.
+
+“Truth Initiative Names IPG’s Initiative as Its Media Agency.” AdAge. Accessed December 2, 2024. https://adage.com/article/agency-news/truth-initiative-names-ipgs-initiative-its-media-agency/2569856.
+
+“U.S. Department of Health & Human Services - National Adult Tobacco Survey (NATS).” Catalog, August 26, 2023. https://catalog.data.gov/dataset/national-adult-tobacco-survey-nats.
+
+Vaping addiction soon takes hold | NHS inform. Accessed December 5, 2024. https://www.nhsinform.scot/campaigns/vaping/.
+
+“Vaping Is Linked to Smoking Cigarettes, Using Marijuana and Other Drugs over Time.” University of Michigan News, August 16, 2024. https://news.umich.edu/vaping-is-linked-to-smoking-cigarettes-using-marijuana-and-other-drugs-over-time/#:~:text=Those%20who%20vaped%20and%20used,to%20start%20using%20other%20drugs.
+
+“Vaping: What You Need to Know.” Heart and Stroke Foundation of Canada, August 29, 2023. https://www.heartandstroke.ca/articles/vaping-what-you-need-to-know#:~:text=The%20short%2Dterm%20impacts%20of,noted%20precursors%20of%20cardiovascular%20risk.
+
+Vultaggio, Maria, and Felix Richter. “Infographic: Teen Vaping Rises in 2019.” Statista Daily Data, November 13, 2019. https://www.statista.com/chart/19890/teen-vaping-increases-2019/.
+
+“What Does Vaping Do to Your Lungs?” Johns Hopkins Medicine, June 20, 2024. https://www.hopkinsmedicine.org/health/wellness-and-prevention/what-does-vaping-do-to-your-lungs.
 
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
